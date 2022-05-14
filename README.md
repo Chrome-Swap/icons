@@ -1,1 +1,1 @@
-# WireSwap Icons
+# ChromeSwap Icons
